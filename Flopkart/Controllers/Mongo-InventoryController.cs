@@ -16,12 +16,12 @@ namespace Flopkart.Controllers
     [Route("api/[controller]")]
     [ApiController]
 
-    public class InventoryController : ControllerBase
+    public class Mongo_InventoryController : ControllerBase
     {
         private readonly IProductService _productService;
 
-        private readonly ILogger<InventoryController> _logger;
-        public InventoryController(IProductService productService,ILogger<InventoryController> logger) 
+        private readonly ILogger<Mongo_InventoryController> _logger;
+        public Mongo_InventoryController(IProductService productService,ILogger<Mongo_InventoryController> logger) 
         {
             _logger= logger;
             _productService= productService;

@@ -9,12 +9,12 @@ namespace Flopkart.Controllers
 {
     [Route("api/[Controller]")]
     [ApiController]
-    public class CartController : ControllerBase
+    public class Mongo_CartController : ControllerBase
     {
         private readonly ICartService _cartService;
 
-        private readonly ILogger<CartController> _logger;
-        public CartController(ICartService cartService, ILogger<CartController> logger)
+        private readonly ILogger<Mongo_CartController> _logger;
+        public Mongo_CartController(ICartService cartService, ILogger<Mongo_CartController> logger)
         {
             
             _cartService = cartService;
