@@ -1,0 +1,17 @@
+D:\Asp.Net core\Flopkart_WebAPI\Flopkar_Sql_Service\bin\Debug\net6.0\Flopkart_Sql_Service.deps.json
+D:\Asp.Net core\Flopkart_WebAPI\Flopkar_Sql_Service\bin\Debug\net6.0\Flopkart_Sql_Service.dll
+D:\Asp.Net core\Flopkart_WebAPI\Flopkar_Sql_Service\bin\Debug\net6.0\Flopkart_Sql_Service.pdb
+D:\Asp.Net core\Flopkart_WebAPI\Flopkar_Sql_Service\bin\Debug\net6.0\Flopkart_Model.dll
+D:\Asp.Net core\Flopkart_WebAPI\Flopkar_Sql_Service\bin\Debug\net6.0\Flopkart_Sql_Repository.dll
+D:\Asp.Net core\Flopkart_WebAPI\Flopkar_Sql_Service\bin\Debug\net6.0\Flopkart_Sql_Repository.pdb
+D:\Asp.Net core\Flopkart_WebAPI\Flopkar_Sql_Service\bin\Debug\net6.0\Flopkart_Model.pdb
+D:\Asp.Net core\Flopkart_WebAPI\Flopkar_Sql_Service\obj\Debug\net6.0\Flopkart_Sql_Service.csproj.AssemblyReference.cache
+D:\Asp.Net core\Flopkart_WebAPI\Flopkar_Sql_Service\obj\Debug\net6.0\Flopkart_Sql_Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net core\Flopkart_WebAPI\Flopkar_Sql_Service\obj\Debug\net6.0\Flopkart_Sql_Service.AssemblyInfoInputs.cache
+D:\Asp.Net core\Flopkart_WebAPI\Flopkar_Sql_Service\obj\Debug\net6.0\Flopkart_Sql_Service.AssemblyInfo.cs
+D:\Asp.Net core\Flopkart_WebAPI\Flopkar_Sql_Service\obj\Debug\net6.0\Flopkart_Sql_Service.csproj.CoreCompileInputs.cache
+D:\Asp.Net core\Flopkart_WebAPI\Flopkar_Sql_Service\obj\Debug\net6.0\Flopkart_Sql_Service.csproj.CopyComplete
+D:\Asp.Net core\Flopkart_WebAPI\Flopkar_Sql_Service\obj\Debug\net6.0\Flopkart_Sql_Service.dll
+D:\Asp.Net core\Flopkart_WebAPI\Flopkar_Sql_Service\obj\Debug\net6.0\refint\Flopkart_Sql_Service.dll
+D:\Asp.Net core\Flopkart_WebAPI\Flopkar_Sql_Service\obj\Debug\net6.0\Flopkart_Sql_Service.pdb
+D:\Asp.Net core\Flopkart_WebAPI\Flopkar_Sql_Service\obj\Debug\net6.0\ref\Flopkart_Sql_Service.dll
